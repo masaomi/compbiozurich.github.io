@@ -21,4 +21,9 @@ tags:
 
 <!--more-->
 
+*Title*
+Polyploid crop genome assembly by optical genome mapping and homeolog specific genomics analysis
+
 *Abstract* __seminar-abstract__
+
+I will show the latest update of Finger millet genome assembly scaffolded by Bionano Saphyr at chromosomal length scale. I will introduce yet another polyploid analysing tool called EAGLE-RC and show some results on the resequencing data.
